@@ -1,0 +1,6 @@
+{
+  "name": "Диктофон Pro",
+  "description": "Профессиональный диктофон для Android смартфона: запись MP3 128 кбит/с по умолчанию, визуализация волны, библиотека, редактор и экспорт.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
